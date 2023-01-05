@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Karakater</string>
+    <string name="karakter">Karakter</string>
+    <string name="detail">Detail</string>
+    <string name="ability">Ability</string>
+    <string name="live">Live</string>
+    <string name="zaidan">Zaidan Abdul Aziz</string>
+    <string name="nim">10122106</string>
+    <string name="jurusan">Teknik Informatika</string>
+    <string name="abilityinfo">Ability :</string>
+    <string name="liveinfo">Live :</string>
+</resources>
